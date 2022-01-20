@@ -1,1 +1,2 @@
 
+This program reads names and birthdays in from a file, stores them in an array of objects, sorts the data by birthday, and displays it
