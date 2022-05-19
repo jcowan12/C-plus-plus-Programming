@@ -1,1 +1,1 @@
-C++ program that intakes a word and outputs a list of anagrams using a predefined word list.
+C++ program that intakes a word and returns a list of anagrams using a predefined word list.
